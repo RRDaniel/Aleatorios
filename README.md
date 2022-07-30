@@ -1,4 +1,4 @@
 # Aleatorios
 
-### Repositorios destinado a codigos aleatorios feito em algumas linguagens 
+### Repositorios destinado a codigos aleatorios :D
 
