@@ -1,4 +1,4 @@
 # Aleatorios
 
-### Repositorios destinado a codigos aleatorios :D
+### Repositorios destinado a codigos aleatorios em GO, Ruby e JS
 
